@@ -61,10 +61,6 @@ If you are a tech lead setting up your team, start with the context engineering 
 
 If you are a delivery manager or product owner, the [Manager Guides](/manager-guides) covers what you need to know about tooling, licences, and adoption. The [Governance](/governance) section provides the assurance context you may need for planning or reporting.
 
-## Who this is for
-
-This repository is for all DEFRA developers, regardless of experience level or how much you have used AI tooling before. Whether you are just getting started with GitHub Copilot, trying to get more out of it, or leading a team through adoption, there is something here for you.
-
 ## Getting involved
 
 Working group meetings are open to any DEFRA developer and are held regularly to review new GitHub Copilot features, share findings, and agree on content updates. You do not need to attend meetings to contribute, as pull requests and GitHub Discussions are equally valid ways to participate.

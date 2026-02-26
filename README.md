@@ -29,6 +29,38 @@ The third is ways of working. GitHub Copilot raises real questions about code re
 
 The fourth is influencing tooling strategy. Because the group sits close to day-to-day development work, it is well placed to inform decisions about AI tooling procurement, licensing, and policy within DEFRA. That is not the primary purpose of the group, but it is a useful consequence of the work.
 
+## What you will find here
+
+The repository is organised into the following sections.
+
+**[Governance](/governance)** covers the guardrails for using GitHub Copilot within DEFRA. This includes what data you should not share with the model, how GitHub Copilot use sits within DEFRA's broader data handling policies, and how it aligns with Cabinet Office and NCSC guidance on AI tools in government. If you are unsure whether a particular use is appropriate, start here.
+
+**[Playbooks](/playbooks)** contain practical guidance on integrating GitHub Copilot into your development workflow. This covers the AI-assisted software development lifecycle, how to set up your repository context to get more relevant suggestions, and what good code review looks like when AI-assisted code is involved.
+
+**[Tutorials](/tutorials)** are step-by-step guides written by working group members. They cover getting started with GitHub Copilot in VS Code and JetBrains IDEs, using GitHub Copilot Chat effectively, working with pull request summaries, and using Agent Mode. Tutorials are reviewed before publishing and updated as GitHub releases new features.
+
+**[Hints and Tips](/hints-and-tips)** is a lighter-weight, living collection of things the working group has found useful in day-to-day use. It is organised by feature area rather than workflow, and is intended to be browsed rather than read front to back.
+
+**[New Features](/new-features)** tracks recently released GitHub Copilot features, records the working group's findings from testing them, and links to official GitHub documentation. The intent is to save you time when something new ships and you want to know whether it is worth exploring.
+
+**[Prompt Library](/prompt-library)** holds a community-maintained collection of prompts that have been tested and found useful. Prompts are organised by task type and language. If you have a prompt that works well, the library is the right place to share it.
+
+**[Ways of Working](/ways-of-working)** sets out the norms the working group has agreed on for using GitHub Copilot responsibly within teams. This includes how to approach AI-assisted commits, expectations in code review, and how to raise concerns or share learnings with the group.
+
+**[Manager Guides](/manager-guides)** provides guidance for tech leads and delivery managers on licence and seat management, measuring adoption, and understanding how GitHub Copilot use is developing across their teams.
+
+## Who this is for
+
+This repository is for all DEFRA developers, regardless of experience level or how much you have used AI tooling before. Whether you are just getting started with GitHub Copilot, trying to get more out of it, or leading a team through adoption, there is something here for you.
+
+## Quick start by role
+
+If you are an engineer wanting to use GitHub Copilot effectively, the best starting point is the [Playbooks](/playbooks) section, followed by the [Tutorials](/tutorials) for your IDE. The [Governance](/governance) section is worth reading before you begin, particularly the guardrails document.
+
+If you are a tech lead setting up your team, start with the context engineering guidance in [Playbooks](/playbooks), which covers how to structure your repository to get better results from GitHub Copilot. The [Ways of Working](/ways-of-working) section will help you establish team norms.
+
+If you are a delivery manager or product owner, the [Manager Guides](/manager-guides) covers what you need to know about tooling, licences, and adoption. The [Governance](/governance) section provides the assurance context you may need for planning or reporting.
+
 ## Who this is for
 
 This repository is for all DEFRA developers, regardless of experience level or how much you have used AI tooling before. Whether you are just getting started with GitHub Copilot, trying to get more out of it, or leading a team through adoption, there is something here for you.
